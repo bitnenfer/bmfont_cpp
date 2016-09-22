@@ -264,3 +264,4 @@ test_ns/test_ns.vcxproj
 *.3dsx
 *.elf
 *.smdh
+x64/
